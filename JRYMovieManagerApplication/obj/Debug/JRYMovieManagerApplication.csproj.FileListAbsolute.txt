@@ -1,0 +1,11 @@
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\bin\Debug\JRYMovieManagerApplication.exe.config
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\bin\Debug\JRYMovieManagerApplication.exe
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\bin\Debug\JRYMovieManagerApplication.pdb
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\obj\Debug\JRYMovieManagerApplication.csprojAssemblyReference.cache
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\obj\Debug\JRYMovieManagerApplication.About.resources
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\obj\Debug\JRYMovieManagerApplication.Main.resources
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\obj\Debug\JRYMovieManagerApplication.Properties.Resources.resources
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\obj\Debug\JRYMovieManagerApplication.csproj.GenerateResource.cache
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\obj\Debug\JRYMovieManagerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\obj\Debug\JRYMovieManagerApplication.exe
+C:\Users\Jonah\source\repos\JRYMovieManagerApplication\JRYMovieManagerApplication\obj\Debug\JRYMovieManagerApplication.pdb
